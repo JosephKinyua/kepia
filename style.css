@@ -1,5 +1,5 @@
 .container {
     background-image: url("images/kepia.jpeg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
